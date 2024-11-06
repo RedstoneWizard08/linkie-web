@@ -71,3 +71,4 @@ npm run tauri build
 
 Compiled file is at `/frontend/src-tauri/target/release/`.<br>
 Bundled installer/app is at `/frontend/src-tauri/target/release/bundle`.
+
